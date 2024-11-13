@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Reference Include="MusicRecordsRepository">
-      <HintPath>..\..\..\..\3. Semester\Programmering\Pp\MusicRecordsRepository\MusicRecordsRepository\bin\Debug\net8.0\MusicRecordsRepository.dll</HintPath>
+      <HintPath>..\MusicRecordsRepository.dll</HintPath>
     </Reference>
   </ItemGroup>
 
